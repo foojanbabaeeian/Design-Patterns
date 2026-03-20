@@ -1,1 +1,2 @@
-# Web-Design-Class-1
+# Design Pattern Files
+## Adaptor, Decorator, Factory, Singleton
